@@ -1,12 +1,17 @@
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body background color*/
+
 body {
     background-color: #d9dcd6;
 }
+
+/*Header style settings*/
 
 .header {
     padding: 20px;
@@ -41,14 +46,26 @@ body {
     margin-left: 25px;
 }
 
-a {
+/*articles font color*/
+
+article {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*Nav color font*/
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/*<P> tag font size*/
+
 p {
     font-size: 16px;
 }
+
+/*Horiseon cover image dimentions and position"*/
 
 .hero {
     height: 800px;
@@ -59,21 +76,30 @@ p {
     background-position: center;
 }
 
+/*Social Marketing and SEO image position*/
+
 .float-left {
     float: left;
     margin-right: 25px;
 }
+
+
+/*ORM image position*/
 
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/*Cover position*/
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/*Aside Lead Generation*/
 
 .benefits {
     margin-right: 20px;
@@ -90,6 +116,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
 
 .benefit-brand {
     margin-bottom: 32px;
@@ -198,3 +225,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
