@@ -17,10 +17,10 @@ N/A
 To use this open the Chrime DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I(Windows).A console panel should open either below or to the side of the webpage in the browser.
 
 
-    ![]images.Screenshot.png
+![Screenshot](https://github.com/enanesh/horiseon-semantic-refactor/blob/main/Develop/assets/images/Screenshot.png)
 
 
-  Note: This layout is designed for desktop viewing, so you may notice that some of the elements don't work at a resolution smaller than 768px. 
+Note: This layout is designed for desktop viewing, so you may notice that some of the elements don't work at a resolution smaller than 768px. 
     
 
 ## Credits
