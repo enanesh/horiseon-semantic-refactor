@@ -17,7 +17,7 @@ N/A
 To use this open the Chrime DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I(Windows).A console panel should open either below or to the side of the webpage in the browser.
 
 
-    ```<img width="1390" alt="Screenshot" src="https://user-images.githubusercontent.com/111031708/192175486-397a983b-52f7-4080-9e0c-c6bf114878d1.png">
+    ![]images.Screenshot.png
 
 
   Note: This layout is designed for desktop viewing, so you may notice that some of the elements don't work at a resolution smaller than 768px. 
