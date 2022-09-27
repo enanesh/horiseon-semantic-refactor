@@ -1,27 +1,41 @@
 # horiseon-semantic-refactor
 
 
-##  Codebase that follows accessibility standars 
+## Description
+
+This repo houses the assets used to build the Horiseon website, available at 
+
+Developed in HTML and CSS code lenguages. 
+
+Is a codebase optimazed for search engines following accessibility standars.
 
 
-Our client Horiseon is a Marketing agency they where in need for and optimazed website for search engines, to do so
-we decide to give to the actual page a HTML semantic order refactoring the existing one. 
+## To Run Horiseon Webpage locally 
+ 
+### Step 1:
 
+```sh
+git clone https://github.com/enanesh/horiseon-semantic-refactor.git
+git status 
+```
 
-## Installation
-
-N/A
+## Step 2:
+Once you cloned the repo yuo are ready to make any changes.
 
 ## Usage
 
-To use this open the Chrime DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I(Windows).A console panel should open either below or to the side of the webpage in the browser.
 
 
 ![Screenshot](https://github.com/enanesh/horiseon-semantic-refactor/blob/main/Develop/assets/images/Screenshot.png)
 
 
+
+
 Note: This layout is designed for desktop viewing, so you may notice that some of the elements don't work at a resolution smaller than 768px. 
     
+    
+    
+ 
 
 ## Credits
 
