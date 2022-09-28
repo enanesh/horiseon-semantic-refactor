@@ -26,7 +26,7 @@ Once you cloned the repo yuo are ready to make any changes.
 
 
 
-![Screenshot](https://github.com/enanesh/horiseon-semantic-refactor/blob/main/Develop/assets/images/Screenshot.png)
+![Screenshot](https://github.com/enanesh/horiseon-semantic-refactor/blob/main/assets/images/Screenshot.png)
 
 
 
